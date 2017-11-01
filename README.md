@@ -1,5 +1,5 @@
 # Data-Visualization-Project
-This project is to create a scattered plot published in The Economist which shows the Corruption vs Human Development.
+This project is to create a scattered plot published in The Economist which shows the Corruption vs Human Development index for several countries.
 
 Requirment:
 1. R (latest version)
